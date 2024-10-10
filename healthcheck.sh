@@ -4,7 +4,7 @@
 
 ### Common parameters ###
 
-SYSTEM_NAME="SNBB DHCP"
+SYSTEM_NAME="MY VM"
 
 hostname="$(hostname)"
 
